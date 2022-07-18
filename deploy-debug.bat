@@ -1,2 +1,0 @@
-gradlew assembleDebug
-gradlew installDebug
